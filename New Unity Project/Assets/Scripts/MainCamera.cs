@@ -5,7 +5,7 @@ using UnityEngine;
 public class MainCamera : MonoBehaviour {
     public float SharpnessZoom = 20f; //Скорость зума
     public float CameraPosition;
-    public int CameraZoomMax = -28;
+    public int CameraZoomMax = -23;
     public int CameraZoomMin = -5;
     public float CameraSpeed = 0.2f;
     //public MouseState MS;
