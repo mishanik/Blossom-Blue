@@ -7,5 +7,5 @@ using System.Collections.Generic;
 
 public class SelectableUnitComponent : MonoBehaviour
 {
-    public GameObject selectionCircle;
+    public GameObject selection;
 }

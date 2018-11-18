@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MainCamera : MonoBehaviour {
+public class MainCameraMove : MonoBehaviour {
     public float SharpnessZoom = 20f; //Скорость зума
     public float CameraPosition;
     public int CameraZoomMax = -23;
